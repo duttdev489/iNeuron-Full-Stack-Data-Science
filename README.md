@@ -1,0 +1,2 @@
+# iNeuron-Full-Stack-Data-Science
+This is a data science full stack live mentor led certification program along with full time one-year internship provided by iNeuron intelligence private limited. We will learn all the stack required to work in data science, data analytics and big data industry including ML ops &amp; cloud infrastructure, real time industry project and product development along with iNeuron product development team. We will contribute on various level with iNeuron .
